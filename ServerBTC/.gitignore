@@ -1,0 +1,35 @@
+## Visual Studio / C# User & Build files
+bin/
+obj/
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+## Database & Local Storage
+*.db
+*.db-shm
+*.db-wal
+local_test.db
+*.sqlite
+*.sqlite3
+
+## Settings & Environment Secrets
+appsettings.Development.json
+appsettings.Local.json
+*.env
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+## OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
