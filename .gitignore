@@ -1,0 +1,12 @@
+# Backend (.NET)
+backend/bin/
+backend/obj/
+
+# Frontend (Node)
+frontend/node_modules/
+frontend/dist/
+
+# Env / misc
+.env
+*.log
+.DS_Store
